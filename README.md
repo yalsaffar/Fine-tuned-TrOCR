@@ -11,6 +11,7 @@ To set up this project, follow these steps:
 ```bash
 git clone https://github.com/yalsaffar/Fine-tuned-TrOCR
 cd Fine-tuned-TrOCR
+pip install -r requirements.txt
 ```
 ## Usage
 This project can be used in two ways: through a Jupyter notebook (`trocer.ipynb`) for an interactive approach, or by running a Python script (`train_trocr.py`) for a more automated process.
